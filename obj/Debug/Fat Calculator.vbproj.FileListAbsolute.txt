@@ -1,0 +1,23 @@
+c:\users\adeck\documents\visual studio 2015\Projects\Fat Calculator\bin\Debug\Fat Calculator.exe.config
+c:\users\adeck\documents\visual studio 2015\Projects\Fat Calculator\bin\Debug\Fat Calculator.exe
+c:\users\adeck\documents\visual studio 2015\Projects\Fat Calculator\bin\Debug\Fat Calculator.pdb
+c:\users\adeck\documents\visual studio 2015\Projects\Fat Calculator\bin\Debug\Fat Calculator.xml
+c:\users\adeck\documents\visual studio 2015\Projects\Fat Calculator\obj\Debug\Fat Calculator.vbprojResolveAssemblyReference.cache
+c:\users\adeck\documents\visual studio 2015\Projects\Fat Calculator\obj\Debug\Fat_Calculator.frmMain.resources
+c:\users\adeck\documents\visual studio 2015\Projects\Fat Calculator\obj\Debug\Fat_Calculator.Resources.resources
+c:\users\adeck\documents\visual studio 2015\Projects\Fat Calculator\obj\Debug\Fat Calculator.vbproj.GenerateResource.Cache
+c:\users\adeck\documents\visual studio 2015\Projects\Fat Calculator\obj\Debug\Fat Calculator.exe
+c:\users\adeck\documents\visual studio 2015\Projects\Fat Calculator\obj\Debug\Fat Calculator.xml
+c:\users\adeck\documents\visual studio 2015\Projects\Fat Calculator\obj\Debug\Fat Calculator.pdb
+c:\users\adeck\documents\visual studio 2015\Projects\Fat Calculator\obj\Debug\Fat_Calculator.frmAboutBox.resources
+C:\Users\adeck\documents\visual studio 2015\Projects\Fat Calculator\obj\Debug\Fat_Calculator.frmGlossary.resources
+D:\College\Projects\Fat Calculator\obj\Debug\Fat Calculator.vbprojAssemblyReference.cache
+D:\College\Projects\Fat Calculator\obj\Debug\Fat_Calculator.frmGlossary.resources
+D:\College\Projects\Fat Calculator\obj\Debug\Fat_Calculator.frmAboutBox.resources
+D:\College\Projects\Fat Calculator\obj\Debug\Fat_Calculator.frmMain.resources
+D:\College\Projects\Fat Calculator\obj\Debug\Fat_Calculator.Resources.resources
+D:\College\Projects\Fat Calculator\obj\Debug\Fat Calculator.vbproj.GenerateResource.cache
+D:\College\Projects\Fat Calculator\obj\Debug\Fat Calculator.vbproj.CoreCompileInputs.cache
+D:\College\Projects\Fat Calculator\obj\Debug\Fat Calculator.exe
+D:\College\Projects\Fat Calculator\obj\Debug\Fat Calculator.xml
+D:\College\Projects\Fat Calculator\obj\Debug\Fat Calculator.pdb
